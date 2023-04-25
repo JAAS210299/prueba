@@ -36,7 +36,7 @@ class SelectionSort {
 		for (int i = 0; i < array.length; i++) {
 			System.out.printf("%d \t", array[i]);
 		}
-		System.out.println();
+		System.out.println("hOLA");
 	}
 
 	public void swap(int[] array, int a, int b) {
